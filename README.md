@@ -5,6 +5,7 @@
 This project implements a 16-bit Wallace Tree Multiplier using Verilog HDL.
 
 ## Files
+- 24114041_coa_assignment (1).pdf (Detailed description of the project)
 - array_multiplier.v (Array multiplier main)
 - array_multiplier_tb.v (Array multiplier testbench)
 - bk.v (adder)
